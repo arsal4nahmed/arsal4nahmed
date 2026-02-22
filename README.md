@@ -3,7 +3,7 @@ AI Product Manager | Agentic AI Systems | LLM Orchestration
 
 ---
 
-## 🚀 About Me
+## About Me
 Strategic AI Product Manager with a strong engineering foundation and hands-on experience building agentic AI systems. Experienced in leading end-to-end product lifecycles from discovery to deployment with measurable business impact.
 
 Currently focused on:
@@ -15,7 +15,7 @@ Currently focused on:
 
 ---
 
-## 🧠 Core Expertise
+## Core Expertise
 - Agentic AI System Design
 - LLM Orchestration & Prompt Engineering
 - Product Requirement Documents (PRDs)
@@ -26,22 +26,22 @@ Currently focused on:
 
 ---
 
-## 📊 Impact Highlights
+## Impact Highlights
 - Reduced QA validation time by 35% through AI workflow automation (AgentFlow)
 - Built end-to-end AI hiring assistant (Recruit-AI Capstone)
 - Delivered full PRDs, architecture documentation, and system workflows
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
-### 🔹 Recruit-AI (Capstone Project)
+### 1. Recruit-AI (Capstone Project)
 Agentic AI solution automating candidate screening and interview scheduling for SMEs.
 - Multi-agent reasoning
 - Workflow orchestration
 - Full PRD & roadmap documentation
 
-### 🔹 AgentFlow
+### 2. AgentFlow
 Production-grade multi-agent LLM system enabling:
 - Multi-step reasoning
 - API chaining
@@ -50,13 +50,13 @@ Production-grade multi-agent LLM system enabling:
 
 ---
 
-## 🏗 Technical Foundation
+## Technical Foundation
 Background in Python, Django, REST APIs, and scalable backend systems.
 Engineering experience enables strong feasibility validation and system-level product thinking.
 
 ---
 
-## 🎯 Currently Exploring
+## Currently Exploring
 - AI-native product strategies
 - Agentic AI evaluation systems
 - Human-in-the-loop AI workflows
@@ -64,7 +64,7 @@ Engineering experience enables strong feasibility validation and system-level pr
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 LinkedIn: https://linkedin.com/in/arsalan-ahmed-26288932a
 Email: arsal4nahmed@gmail.com
 Location: Nagpur, India
